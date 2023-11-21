@@ -1,0 +1,28 @@
+name: Workflow
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout il codice
+      uses: actions/checkout@v2
+
+    - name: Impostare Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '14.x'
+
+    - name: Esegui il tuo script
+      env:
+        AV_API_KEY: ${{ secrets.AV_API_KEY }}
+      run: |
+        npm install # o le tue istruzioni di installazione
+        node il_tuo_script.js
+
