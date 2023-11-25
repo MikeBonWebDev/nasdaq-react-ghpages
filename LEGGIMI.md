@@ -1,6 +1,7 @@
 > [!WARNING]
 > Questa è la versione build, potete visualizzare la versione di sviluppo [cliccando qui](https://github.com/MikeBonWebDev/nasdaq-react)
-> _INFO_
+
+> [!NOTE]
 > [Visualizza l'anteprima su GitHub Pages](https://mikebonwebdev.github.io/nasdaq-react-ghpages)
 
 [View in english](./README.md)

@@ -1,6 +1,7 @@
 > [!WARNING]
 > This is a build app, for see the code [click here](https://github.com/MikeBonWebDev/nasdaq-react)
-> _INFO_
+
+> [!NOTE]
 > [View preview on GitHub Pages](https://mikebonwebdev.github.io/nasdaq-react-ghpages)
 
 [Visualizza in italiano](./LEGGIMI.md)
