@@ -1,14 +1,14 @@
 {
-  "short_name": "Nasdapp",
-  "name": "Check Nasdaq's Stocks",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "iconTitle.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "NasdLogo1.png",
+      "src": "iconPWA.png",
       "type": "image/png",
       "sizes": "192x192"
     },
